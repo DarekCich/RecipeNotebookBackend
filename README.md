@@ -1,13 +1,14 @@
 # RecipeNotebookBackend
-## Instalacja 
-  ```
 
+## Pobranie
+```
+  git clone https://github.com/DarekCich/RecipeNotebookBackend
+```
+##  Instalacja 
+```
   npm install
-
-  ```
-## Uruchomienie:
-  ```
-
+```
+##  Uruchomienie:
+```
   npm start
-
-  ```
+```
